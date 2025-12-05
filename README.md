@@ -14,28 +14,7 @@ Custom exceptions
 JDBC-based database operations
 
 🧱 Project Structure
-src/main/java/com/example
-│
-├── dao
-│   ├── StudentDao.java
-│   ├── StudentDaoImpl.java
-│
-├── service
-│   ├── StudentService.java
-│   ├── StudentServiceImpl.java
-│
-├── model
-│   └── Student.java
-│
-├── exception
-│   └── StudentNotFound.java
-│
-├── util
-│   ├── DBConnection.java
-│   ├── InputUtil.java
-│   └── ValidationUtil.java
-│
-└── App.java
+<img width="412" height="663" alt="image" src="https://github.com/user-attachments/assets/d54a0c91-9ddb-4266-bb82-e2dfb2c0ce32" />
 
 🛠 Technologies Used
 Java 8+
